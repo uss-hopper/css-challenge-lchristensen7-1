@@ -19,6 +19,21 @@ html, body {
 	clear: both;
 }
 
+header {
+	background-color: dimgray;
+	color: #00FF00;
+	text-align: center;
+}
+
+h1{
+	color: lawngreen;
+	padding-left: 1em;
+	padding-right: 2.5em;
+	/*margin:top, right,, bottom, left*/
+	margin: 0.5em 0 0.5em 0;
+	display: infline-flex;
+}
+
 /* create a responsive container */
 @media only screen and (min-width: 1200px) {
 	.container { width: 1170px; }
