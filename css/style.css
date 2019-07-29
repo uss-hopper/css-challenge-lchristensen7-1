@@ -31,7 +31,7 @@ h1{
 	padding-right: 2.5em;
 	/*margin:top, right,, bottom, left*/
 	margin: 0.5em 0 0.5em 0;
-	display: infline-flex;
+	display: inline-flex;
 }
 
 /* create a responsive container */
